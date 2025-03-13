@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287855559429",
+    "project_id": "teerakornt-859c0",
+    "storage_bucket": "teerakornt-859c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287855559429:android:e139109f5c469464ebad6c",
+        "android_client_info": {
+          "package_name": "com.example.diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdLEHeLHczIovybiGGQ5N6z-NpSU9qDpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
